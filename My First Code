@@ -1,0 +1,5 @@
+print ("My name is ali")
+A = 100
+B = 200
+C = 300
+print (A+B+C)
